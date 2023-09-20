@@ -1,0 +1,15 @@
+{
+  "name": "pre-entrega1--canarini-maximiliano",
+  "version": "1.0.0",
+  "description": "Primera Pre entrega Coder backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pre",
+    "entrega1"
+  ],
+  "author": "Maximiliano Canarini",
+  "license": "ISC"
+}

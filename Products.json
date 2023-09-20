@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "título": "El señor de los anillos - La comunidad del anillo",
+        "autor": "J.R.R. Tolkien",
+        "img": "imagen1.jpg",
+        "descripción": "Una épica historia de fantasía que sigue las aventuras de un joven hobbit llamado Frodo en su búsqueda para destruir un poderoso anillo.",
+        "precio": 14000,
+        "género": "Fantasía",
+        "cantidad": 15
+    },
+    {
+        "id": 2,
+        "título": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "img": "imagen2.jpg",
+        "descripción": "Una novela mágica que narra la historia de la familia Buendía a lo largo de varias generaciones en un pueblo ficticio de América Latina.",
+        "precio": 26600,
+        "género": "Realismo mágico",
+        "cantidad": 15
+    },
+    {
+        "id": 3,
+        "título": "1984",
+        "autor": "George Orwell",
+        "img": "imagen3.jpg",
+        "descripción": "Una distopía que sigue la vida de Winston Smith en un mundo totalitario donde el gobierno controla todos los aspectos de la sociedad.",
+        "precio": 7000,
+        "género": "Ciencia ficción",
+        "cantidad": 15
+    },
+    {
+        "id": 4,
+        "título": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "img": "imagen4.jpg",
+        "descripción": "Una historia de amor y clase social que sigue a Elizabeth Bennet y su relación con el enigmático Sr. Darcy.",
+        "precio": 18800,
+        "género": "Romance",
+        "cantidad": 15
+    },
+    {
+        "id": 5,
+        "título": "Matar un ruiseñor",
+        "autor": "Harper Lee",
+        "img": "imagen5.jpg",
+        "descripción": "Una novela que aborda temas de raza y justicia en el sur de Estados Unidos a través de la historia de Atticus Finch y sus hijos.",
+        "precio": 6300,
+        "género": "Ficción clásica",
+        "cantidad": 15
+    },
+    {
+        "id": 6,
+        "título": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "img": "imagen6.jpg",
+        "descripción": "La historia de un caballero loco y su fiel escudero que emprenden aventuras absurdas en busca de la gloria.",
+        "precio": 15150,
+        "género": "Clásicos españoles",
+        "cantidad": 15
+    },
+    {
+        "id": 7,
+        "título": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "img": "imagen7.jpg",
+        "descripción": "El inicio de la saga de Harry Potter, un joven mago que descubre su verdadera identidad en el mundo de la magia.",
+        "precio": 15980,
+        "género": "Fantasía",
+        "cantidad": 15
+    },
+    {
+        "id": 8,
+        "título": "Crónica de una muerte anunciada",
+        "autor": "Gabriel García Márquez",
+        "img": "imagen8.jpg",
+        "descripción": "Una historia de asesinato y venganza en un pueblo caribeño donde todos conocen el destino de la víctima.",
+        "precio": 16600,
+        "género": "Realismo mágico",
+        "cantidad": 15
+    },
+    {
+        "id": 9,
+        "título": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "img": "imagen9.jpg",
+        "descripción": "En un futuro distópico, un bombero se convierte en un rebelde que busca preservar la literatura y el conocimiento.",
+        "precio": 7700,
+        "género": "Ciencia ficción",
+        "cantidad": 15
+    },
+    {
+        "id": 10,
+        "título": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "img": "imagen10.jpg",
+        "descripción": "En un mundo postapocalíptico, Katniss Everdeen se convierte en símbolo de resistencia al participar en los Juegos del Hambre.",
+        "precio": 56900,
+        "género": "Ciencia ficción",
+        cantidad: 15
+    }
+]
