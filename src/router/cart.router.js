@@ -19,14 +19,14 @@ router.get("/:idProduct", async (req, res) => {
 });
 
 router.post("/",async (req, res) => {
-  const  { id, título, autor, descripción, precio, cantidad, género } = req.body;
-  if (!id || !título || !autor|| !descripción || !precio || !cantidad ||! género){
+  const  { id, cantidad} = req.body;
+  if (!id || !cantidad){
     return res.status(400).json({ message: "Fata información" });
   }
   try {
     const newProduct = await productManager.createProduct(req.body);
     req.product = newProduct
-    res.redirect(`/api/signupresponse/${newProduct.id}`)
+    res.redirect(`/api/cart/${newProduct.id}`)
   } catch (error) {
     res.status(500).json({ message: error });
   }
